@@ -1,5 +1,5 @@
 url: virtuozjack.github.io
-baseurl: "/VirtuozJack"
+baseurl: "/VirtuozJack/github/workspace/"
 
 # Build settings
 permalink: /blog/:year/:title/
