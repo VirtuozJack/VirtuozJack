@@ -21,8 +21,8 @@ sass:
 title: Jacek Marzec - Portfolio 
 description: "Open for job position."
 keywords: "Jacek, Marzec, job, praca, SEO, web"
-url: 
-baseurl: "/VirtuozJack/github/workspace"
+url: "virtuozjack.github.io"
+baseurl: "/VirtuozJack"
 
 google_analytics: 
 repo: 
