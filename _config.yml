@@ -22,7 +22,7 @@ title: Jacek Marzec - Portfolio
 description: "Open for job position."
 keywords: "Jacek, Marzec, job, praca, SEO, web"
 url: 
-baseurl: "/yacula_portfolio"
+baseurl: "/"
 
 google_analytics: 
 repo: 
