@@ -1,6 +1,9 @@
 url: virtuozjack.github.io
 baseurl: "/VirtuozJack"
 
+source: source
+destination: _site
+
 sass:
   sass_dir: _sass
   style: compressed # expanded
