@@ -1,5 +1,19 @@
-url: virtuozjack.github.io
-baseurl: /VirtuozJack
+url: 
+baseurl: "/VirtuozJack"
+
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: "/page/:num/"
+
+comments: true
+
 source: source
 destination: _site
 sass:
@@ -7,9 +21,10 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: Jacek Marzec - Portfolio
+title: Jacek Marzec - Portfolio 
 description: "Open for job position."
 keywords: "Jacek, Marzec, job, praca, SEO, web"
+
 
 google_analytics: 
 repo: 
@@ -35,5 +50,7 @@ navbar:
     title: About
   - slug: icons
     title: Icons
+  - slug: blog
+    title: Blog
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
