@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 ## Bio:
 
 Hello. My name is Jack.<br/>
@@ -8,7 +8,7 @@ In this repo you may find out some my projects :octocat: <br/>
 <br/>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</center>
+</div>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=informational
 [linkedin-url]: https://www.facebook.com/jackjack534/
