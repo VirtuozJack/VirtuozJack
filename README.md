@@ -5,7 +5,10 @@ I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board:
 In this repo you may find out some my projects :octocat: <br/>
 
 [Facebook](https://www.facebook.com/jackjack534/)<br/>
-![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.facebook.com/jackjack534/
 <!--
 ### Hello. My name is Jack.
 ### I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: 
