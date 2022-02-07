@@ -1,5 +1,6 @@
+## :octocat: 
 ### Hello. My name is Jack.
-### I’m a recent Computer Science graduate from WSEI Lublin College. 
+### I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: 
 ### In this repo you may find out some my projects.
 
 <!--
