@@ -8,12 +8,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "github-pages"
 #gem "jekyll", "~>3.6.0"
-gem "rake", "~>13.0"
-gem "sass", "~>3.7"
-gem "json", "~> 2"
-gem "bourbon", "~>7.0"
+gem "github-pages"
+gem "rake"
+gem "sass"
+gem "json"
+gem "bourbon"
 gem "jekyll-paginate-v2"
 gem "jekyll-compose"
 gem "kramdown"

@@ -287,14 +287,14 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bourbon (~> 7.0)
+  bourbon
   github-pages
   jekyll-compose
   jekyll-paginate-v2
-  json (~> 2)
+  json
   kramdown
-  rake (~> 13.0)
-  sass (~> 3.7)
+  rake
+  sass
 
 BUNDLED WITH
    2.3.6
