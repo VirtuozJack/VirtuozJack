@@ -2,10 +2,10 @@
 
 Hello. My name is Jack.<br/>
 I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: <br/>
-In this repo you may find out some my projects.<br/>
+In this repo you may find out some my projects :octocat: <br/>
 
 [Facebook](https://www.facebook.com/jackjack534/)<br/>
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![LinkedIn][linkedin-shield]][linkedin-url]
 <!--
 ### Hello. My name is Jack.
 ### I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: 
