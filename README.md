@@ -1,5 +1,6 @@
 <div align="center">
-## Bio:
+  
+  <b>Bio:</b>
 
 Hello. My name is Jack.<br/>
 I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: <br/>
