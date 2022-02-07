@@ -1,10 +1,11 @@
 ## Authors
 
-Hello. My name is Jack.
-I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: 
-In this repo you may find out some my projects.
+Hello. My name is Jack.<br/>
+I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: <br/>
+In this repo you may find out some my projects.<br/>
 
-[Jacek Marzec](https://www.facebook.com/jackjack534/)
+[Facebook](https://www.facebook.com/jackjack534/)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!--
 ### Hello. My name is Jack.
