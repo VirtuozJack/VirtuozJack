@@ -1,7 +1,7 @@
 url: virtuozjack.github.io
 baseurl: "/VirtuozJack"
 
-#source: source
+source: VirtuozJack
 destination: _site
 
 #sass:
