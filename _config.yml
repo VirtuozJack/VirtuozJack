@@ -4,9 +4,9 @@ baseurl: "/VirtuozJack"
 #source: source
 destination: _site
 
-sass:
-  sass_dir: _sass
-  style: compressed # expanded
+#sass:
+#  sass_dir: _sass
+#  style: compressed # expanded
 
 # SEO settings
 title: Jacek Marzec - Portfolio 
