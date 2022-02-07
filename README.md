@@ -1,7 +1,16 @@
-## :octocat: 
+## Authors
+
+Hello. My name is Jack.
+I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: 
+In this repo you may find out some my projects.
+
+[Jacek Marzec](https://www.facebook.com/jackjack534/)
+
+<!--
 ### Hello. My name is Jack.
 ### I’m a recent Computer Science graduate from WSEI Lublin College :mortar_board: 
 ### In this repo you may find out some my projects.
+-->
 
 <!--
 **VirtuozJack/VirtuozJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
