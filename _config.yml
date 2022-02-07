@@ -1,7 +1,7 @@
 url: virtuozjack.github.io
 baseurl: "/VirtuozJack"
 
-source: VirtuozJack
+#source: VirtuozJack
 destination: _site
 
 #sass:
@@ -38,5 +38,5 @@ navbar:
   - slug: icons
     title: Icons
 
-plugins: [bourbon]
+
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
