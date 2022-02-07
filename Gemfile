@@ -10,8 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "github-pages"
 #gem "jekyll", "~>3.6.0"
-gem "rake", "~>10.5"
-gem "sass", "~>3.4"
+gem "rake", "~>13.0"
+gem "sass", "~>3.7"
 gem "json", "~> 2"
 
 
@@ -21,7 +21,7 @@ gem "json", "~> 2"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "bourbon", "~>4.3"
+  gem "bourbon", "~>7.0"
   gem "jekyll-paginate-v2"
   gem "jekyll-compose"
   gem "kramdown"

@@ -13,7 +13,6 @@ title: Jacek Marzec - Portfolio
 description: "Open for job position."
 keywords: "Jacek, Marzec, job, praca, SEO, web"
 
-
 google_analytics: 
 repo: https://github.com/VirtuozJack
 disqus_shortname: 
@@ -39,4 +38,5 @@ navbar:
   - slug: icons
     title: Icons
 
+gems: [bourbon]
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
