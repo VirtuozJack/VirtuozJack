@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: virtuozjack.github.io
-baseurl: "/VirtuozJack"
+baseurl: "/VirtuozJack/"
 
 # Author settings
 author: Jacek Marzec
@@ -21,9 +21,9 @@ bio: "I’m a recent Computer Science graduate from WSEI Lublin College. Below y
 thumb: /images/profile.png
 email: wirtuoz.1985rok@gmail.com
 url: https://github.com/VirtuozJack
-github: https://github.com/VirtuozJack
+github: VirtuozJack
 #twitter: 
-facebook: https://www.facebook.com/jackjack534
+facebook: jackjack534
 #linkedin: 
 
 # SEO settings
