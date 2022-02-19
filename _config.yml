@@ -1,42 +1,40 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
 url: virtuozjack.github.io
 baseurl: "/VirtuozJack"
 
-#source: VirtuozJack
-destination: _site
-
-#sass:
-#  sass_dir: _sass
-#  style: compressed # expanded
+# Author settings
+author: Jacek Marzec
+job: Developer
+bio: "I’m a recent Computer Science graduate from WSEI Lublin College. Below you may find out my projects."
+thumb: /images/profile.png
+email: wirtuoz.1985rok@gmail.com
+url: https://github.com/VirtuozJack
+github: https://github.com/VirtuozJack
+#twitter: 
+facebook: https://www.facebook.com/jackjack534
+#linkedin: 
 
 # SEO settings
 title: Jacek Marzec - Portfolio 
 description: "Open for job position."
 keywords: "Jacek, Marzec, job, praca, SEO, web"
 
-google_analytics: 
-repo: https://github.com/VirtuozJack
-disqus_shortname: 
-disqus_site_shortname: 
+#google_analytics: UA-69391421-1
 
-# Author settings
-author:
-  name: Jacek Marzec
-  job: Developer
-  bio: "I’m a recent Computer Science graduate from WSEI Lublin College. Below you may find out my projects."
-  thumb: /images/author.jpg
-  email: wirtuoz.1985rok@gmail.com
-  url: https://github.com/VirtuozJack
-  github: https://github.com/VirtuozJack
-  twitter: 
-  facebook: https://www.facebook.com/jackjack534
-  linkedin: 
-
-# navbar pages
-navbar:
-  - slug: about
-    title: About
-  - slug: icons
-    title: Icons
+avatar: profile.png
 
 
-exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
+# needed for travis-ci build
+exclude: [vendor]
