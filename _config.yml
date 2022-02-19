@@ -9,7 +9,6 @@ plugins: [jekyll-paginate]
 port: 3000
 safe: true
 
-
 # edit here to achieve your personal greatness
 url: virtuozjack.github.io
 baseurl: "/VirtuozJack/"
@@ -24,10 +23,10 @@ email: wirtuoz.1985rok@gmail.com
 github: VirtuozJack
 #twitter: 
 facebook: jackjack534
-#linkedin: 
+#linkedin:
 
 # SEO settings
-title: Jacek Marzec - Portfolio 
+title: Jacek Marzec - Portfolio
 description: "Open for job position."
 keywords: "Jacek, Marzec, job, praca, SEO, web"
 
